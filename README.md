@@ -15,6 +15,7 @@ Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 Windows için:
 
 > cd kodluyoruzilkrepo
+
 > code .
 
 # Contributing 
